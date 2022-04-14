@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Builds and executes the application
+
+echo "build and execute application"
+
+./info.sh $1
+
+name=`cat ./info/name.txt`
+
+echo "application:"$name
+
+rm -v "./"$name".cabal"
+stack build
+stack exec $name"-exe"

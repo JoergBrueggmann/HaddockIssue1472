@@ -1,0 +1,188 @@
+
+Caenorhabditis elegans
+Zur Navigation springen
+Zur Suche springen
+Caenorhabditis elegans
+
+Videoschleife mit Caenorhabditis elegans (?) unter einem Durchlichtmikroskop (Differential-Interferenz-Kontrast)
+Systematik
+Stamm: 	Fadenwürmer (Nematoda)
+Klasse: 	Secernentea
+Ordnung: 	Rhabditida
+Familie: 	Rhabditidae
+Gattung: 	Caenorhabditis
+Art: 	Caenorhabditis elegans
+Wissenschaftlicher Name
+Caenorhabditis elegans
+(Maupas, 1900)
+
+Caenorhabditis elegans ist ein Fadenwurm aus der Gruppe der Rhabditiden, der vor allem in der Entwicklungsbiologie und der Genetik als Modellorganismus erforscht wird. Der Name ist griechisch-lateinischer Herkunft und bedeutet „eleganter neuer Stab“ (griechisch caeno ‚neu‘, rhabditis ‚stabförmig‘; lateinisch elegans ‚elegant‘).
+Inhaltsverzeichnis
+
+    1 Merkmale
+        1.1 Anatomie
+        1.2 Lebensraum
+        1.3 Lebenszyklus
+        1.4 Dauer-Stadium (Dauer-Larve)
+    2 Biologischer Modellorganismus
+    3 Siehe auch
+    4 Literatur
+    5 Weblinks
+    6 Einzelnachweise
+
+Merkmale
+Anatomie
+Schematische Darstellung der Anatomie eines ausgewachsenen zwittrigen Individuums von C. elegans mit Schwerpunkt auf den Fortpflanzungs- und Verdauungsorganen
+
+Adulte Individuen sind nur etwa einen Millimeter lang und haben einen Durchmesser von 65 µm (0,065 mm). Ein Teil der Artpopulation besteht aus Zwittern (Hermaphroditen), die sich durch Selbstbefruchtung fortpflanzen können. Es handelt sich dabei um sogenannte Konsekutivzwitter, das heißt, diese Tiere produzieren in ihren Keimdrüsen (Gonaden) zunächst Spermien, die in einer Spermathek gespeichert werden, und nachfolgend bilden sie Oozyten. Der andere Teil der Artpopulation besteht aus reinen Männchen, die mit den Hermaphroditen kopulieren und so sexuell neuen Nachwuchs produzieren können.
+
+Außerdem besitzt die Art ein relativ einfach gebautes Nervensystem, dessen Hauptelemente ein circumpharyngealer (um den Isthmus des Pharynx geschlungener) Nervenring, ein ventral (an der Bauchseite) und ein dorsal (an der Rückenseite) verlaufender Nervenstrang sowie mehrere Nervenknoten (Ganglien) in der Kopf- und Schwanzregion sind. Es besteht aus 302 Nervenzellen bei adulten Hermaphroditen.[1] Bis zum Jahr 2015 waren bei adulten Männchen 383 Nervenzellen bekannt,[1] bevor noch ein weiteres Neuronenpaar unter der Bezeichnung „MCMs“ (von englisch mystery cells of the male) beschrieben worden ist.[2] Die Anzahl der Nervenzellen bei Männchen beträgt folglich insgesamt 385. Die im Vergleich zu den Hermaphroditen überzähligen Neuronen der Männchen liegen vorwiegend in der Region des spezialisierten Schwanzes (eine Ausnahme bilden u. a. die „MCMs“, die in der Kopfregion liegen) und steuern das Paarungsverhalten.
+
+Das Phänomen der Zellkonstanz (Eutelie), das bei C. elegans nicht nur bei den Zellen des Nervensystems auftritt, ist nicht zuletzt ausschlaggebend für die Nutzung der Art als Modellorganismus in der biologischen und medizinischen Forschung (siehe unten): Jeder adulte Hermaphrodit besitzt immer genau 959, jedes adulte Männchen genau 1031 somatische Zellkerne.
+Lebensraum
+
+C. elegans lebt normalerweise im Boden gemäßigter Klimazonen, das Temperaturoptimum liegt zwischen 4 °C und 30 °C. Dort ernährt der Wurm sich von Bakterien, die totes organisches Material abbauen.
+Lebenszyklus
+
+Der Hermaphrodit legt während seines Lebens etwa 300 Eier, aus denen die L1-Larven schlüpfen. Es folgen 3 weitere Larvenstadien (L2, L3 und L4), die aus Häutungen hervorgehen. Nach etwa 8 Stunden bei einer Raumtemperatur von 25 °C ist das adulte Stadium erreicht. Das adulte Stadium ist optisch von den anderen Stadien durch den Besitz einer Vulva gekennzeichnet. Man muss anmerken, dass es sich nicht um eigentliche Larvenstadien, sondern um Juvenilstadien handelt.
+Dauer-Stadium (Dauer-Larve)
+
+Unter ungünstigen Umweltbedingungen, wie zum Beispiel einer hohen Populationsdichte oder Futterknappheit, entwickelt sich aus der L2-Larve ein Dauerlarvenstadium (Prädauer „ähnelt L2-Stadium“ und anschließend Dauer „ähnelt L3/L4-Stadium“), das 3 Monate überdauern kann. Die Bildung des Dauerstadiums wird durch das Dauerpheromon (ein Cholesterolderivat, Steroid) induziert. Das Dauerstadium weicht morphologisch von den normalen Larvenstadien ab. Es ist in der Gestalt dünner als das normale L2-Stadium. Die Dauer-Larve besitzt eine dickere dreilagige Cuticula und eine kleinere Mundöffnung, wodurch sie vor dem Austrocknen geschützt ist. (Anatomie und Stoffwechsel unterscheiden sich erheblich von den anderen Stadien). Während die frühen Dauerstadien sehr aktiv sind und nach Futter suchen, verhalten sich die späteren Dauerstadien passiv und liegen auf den Agarplatten nebeneinander. Durch Berührungsreize können sie jedoch wieder zur Fluchtbewegung animiert werden. Durch das passive Verhalten wird verhindert, dass sie zu viel der eingelagerten Ressourcen verbrennen. Kommt das Dauerstadium in Kontakt mit Futter, entwickelt es sich zur L4-Larve.
+Biologischer Modellorganismus
+Fluoreszenzmikroskopische Aufnahme eines Hermaphroditen des Wildtyps von C. elegans, behandelt mit einem fluoreszierenden DNA-Färbemittel zur Hervorhebung der Zellkerne
+
+In den 1960er Jahren wurde Caenorhabditis elegans durch den Entwicklungsbiologen Sydney Brenner (Nobelpreis für Medizin 2002) in die Wissenschaft als Beobachtungsobjekt für die Zellbiologie und die Entwicklungsbiologie eingeführt.
+
+Caenorhabditis elegans zeichnet sich durch die so genannte Eutelie aus. Das Entwicklungsschicksal der einzelnen Zellen ist im Allgemeinen zu Beginn der Furchung festgelegt (Mosaikentwicklung). Allerdings ist die Entwicklung von C. elegans kein Musterbeispiel für eine deterministische, zellautonome Entwicklung. Dabei wird das Entwicklungsschicksal jeder Zelle durch bestimmte Vorgängerzellen eindeutig gesteuert (Mosaikentwicklung). Brenner erforschte die zelluläre Regulation dieser Determination. H. Robert Horvitz untersuchte damit zusammenhängend den programmierten Zelltod. Die Ergebnisse der Grundlagenforschung an Caenorhabditis elegans lassen sich auf ein breites Organismenspektrum übertragen, inklusive der Wirbeltiere und damit auch des Menschen. Siehe in diesem Zusammenhang auch Let-7.
+
+Seitdem ist seine Beliebtheit als Modellorganismus immer weiter gestiegen. Die einfache Handhabung der Tiere auf Agarplatten, mit Bakterien als Nahrung (E. coli-Stämme: OP50 und HB101) und seine entwicklungsbiologischen Eigenschaften (unter anderem Eutelie, einfache Strukturbildung, Durchsichtigkeit) haben seinen Siegeszug im Labor begünstigt. Heute stellt er neben dem Bakterium Escherichia coli, der Taufliege Drosophila melanogaster und der Ackerschmalwand Arabidopsis thaliana einen der am besten erforschten Organismen der Welt dar. Es ist nicht mehr allein die Entwicklungsbiologie, die Erkenntnisse aus der Erforschung des Wurmes zieht, auch viele andere Bereiche der Biologie, wie Physiologie, Ökologie, Genomik, Neurobiologie, Evolutionsbiologie und Zellbiologie nutzen den Modellorganismus. Oft erfolgt diese Forschung interdisziplinär sowie auch im Hinblick auf medizinischen Erkenntnisgewinn.
+
+Caenorhabditis elegans war 1998 der erste vollständig sequenzierte Vielzeller (Metazoon) überhaupt. Die sechs Chromosomen und das Genom des Mitochondriums enthalten zusammen 100.281.426 Basenpaare und 23.217 Gene. 2003 wurde auch das Erbgut der nahe verwandten Art Caenorhabditis briggsae vollständig entschlüsselt, um Vergleichsmöglichkeiten nahe verwandter Arten zu schaffen.[3][4][5]
+
+Im Jahre 2006 erhielt der US-amerikanische Biologe Andrew Z. Fire, ein Schüler von Sydney Brenner, zusammen mit Craig C. Mello den Nobelpreis für Medizin für die Erforschung von RNA-Interferenz, ein Verfahren, mit dem sich Gene gezielt „stummschalten“ lassen. Diese Arbeiten wurden an Caenorhabditis elegans durchgeführt. Der dritte mit Caenorhabditis elegans verbundene Nobelpreis wurde im Jahre 2008 vergeben, als der US-amerikanische Biologe Martin Chalfie zusammen mit Osamu Shimomura und Roger Y. Tsien den Nobelpreis für Chemie für die Einführung des grün fluoreszierenden Proteins (GFP) in die biomedizinische Grundlagenforschung erhielt. Die Arbeiten von Martin Chalfie wurden an Caenorhabditis elegans durchgeführt. Chalfie war 1977 ebenfalls zu dem Team um Sydney Brenner an der Universität Cambridge gestoßen.
+
+Studien an Caenorhabditis elegans lieferten ferner zahlreiche Erkenntnisse zum Zusammenhang zwischen bestimmten externen Reizen, den rezipierenden Nervenzellen, den dadurch ausgelösten Verhaltensweisen und der zugrundeliegenden genetischen Ausstattung der entsprechenden Populationen oder Individuen. So wurde beispielsweise experimentell ermittelt, dass das Phänomen, dass Vertreter bestimmter Zuchtlinien und wilder Populationen von C. elegans dazu neigen, bei der Nahrungsaufnahme Aggregationen zu bilden (englisch social feeding), während andere dies nicht tun (solitary feeding), unter anderem von der Aktivität bestimmter Gene abhängt, die den Aufbau bestimmter Ionenkanäle (sogenannter TRP-Kanäle) in bestimmten Sinneszellen (sogenannten Nozizeptorneuronen) codieren, die für die Wahrnehmung potenziell schädlicher Substanzen zuständig sind, die von der Nahrung der Würmer, Bakterien wie E. coli, produziert werden.[6] Auch einige bedeutende Fortschritte bei der Erforschung der Entstehung der Parkinson-Krankheit auf Zellebene konnten durch Experimente mit C. elegans erzielt werden.[7]
+
+Caenorhabditis elegans ist ebenfalls ein prominenter Modellorganismus in der Alternsforschung.[8] Neben der Lebensspanne verlängernden Wirkung von Kalorienrestriktionen, welche wahrscheinlich über den Insulin/IGF-1-Signalweg wirken[9], ist die Rolle der Telomere und Telomerase im Alterungsprozess von Caenorhabditis elegans ein intensives Forschungsfeld – Caenorhabditis elegans ist der erste eukaryotische Organismus, welcher seine Telomere auf kanonische Art und Weise mittels Telomerase saniert aber bei dem in einem Telomerase Knock-out Stamm Alternative Lengthening of Telomeres (ALT) beobachtet wurde.[10] ALT war zuvor nur in erster Linie in Drosophila melanogaster[11] aber auch in etwa 10–15 % der klinischen Krebzzelllinien des Menschen bekannt.[12] Bayat et al. berichtete von dem paradoxen Phänomen in Caenorhabditis elegans bei dem es trotz der Überexpression der katalytischen Einheit der Reversen Transcriptase der Telomerase zu einer Telomerlängenverkürzung kam ohne das die Lebensspanne beeinträchtigt wurde.[13]
+
+Fadenwürmer und insbesondere ihre Larven sind sehr widerstandsfähig gegen Detergentien, Säure, Salze, Kälte oder Hitze. Aus den Trümmern des beim im Wiedereintritt in die Atmosphäre 2003 zerstörten Space Shuttle Columbia konnten Behälter mit Caenorhabditis elegans geborgen und auch nach mehreren Monaten überlebende Nachkommen der Würmer nachgewiesen werden.[14]
+Siehe auch
+
+Entwicklungsbiologie: Zur Entwicklung des Fadenwurms
+Literatur
+
+    William B. Wood: The Nematode Caenorhabditis Elegans. Cold Spring Harbor Laboratory Press, 1988, ISBN 978-087969433-3
+
+Weblinks
+Commons: Caenorhabditis elegans – Sammlung von Bildern, Videos und Audiodateien
+
+    Caenorhabditis elegans im National Center for Biotechnology Information (NCBI)
+    The Wormbase
+    Wormatlas (A database of behavioral and structural anatomy of Caenorhabditis elegans)
+    WormBook (The online review of C. elegans biology)
+    Caenorhabditis Genome Sequencing Project (mit Links)
+
+Einzelnachweise
+Travis A. Jarrell, Yi Wang, Adam E. Bloniarz, Christopher A. Brittin, Meng Xu, J. Nichol Thomson, Donna G. Albertson, David H. Hall, Scott W. Emmons: The Connectome of a Decision-Making Neural Network. In: Science. Band 337, Nr. 6093, 2012, S. 437–444, doi:10.1126/science.1221762 (alternativer Volltextzugriff: wormwiring.org)
+Michele Sammut, Steven J. Cook, Ken C. Q. Nguyen, Terry Felton, David H. Hall, Scott W. Emmons, Richard J. Poole, Arantza Barrios: Glia-derived neurons are required for sex-specific learning in C. elegans. In: Nature. Band 526, Nr. 7573, 2015, S. 385–390, doi:10.1038/nature15700, PMC 4650210 (freier Volltext)
+MapView Eintrag
+Proteom bei UniProt
+C. elegans Sequencing Consortium: Genome sequence of the nematode C. elegans: a platform for investigating biology. In: Science. Band 282, Nr. 5396, 1998, S. 2012–2018, doi:10.1126/science.282.5396.2012, PMID 9851916.
+Mario de Bono, David M. Tobin, M. Wayne Davis, Leon Avery, Cornelia I. Bargmann: Social feeding in Caenorhabditis elegans is induced by neurons that detect aversive stimuli. In: Nature. Band 419, Nr. 6910, 2002, S. 899–903, doi:10.1038/nature01169, PMC 3955269 (freier Volltext)
+Anthony L. Gaeta, Kim A. Caldwell, Guy A. Caldwell: Found in Translation: The Utility of C. elegans Alpha-Synuclein Models of Parkinson’s Disease. In: Brain Sciences. Band 9, Nr. 4, 2019, 73, doi:10.3390/brainsci9040073.
+Cynthia Kenyon: The first long-lived mutants: discovery of the insulin/IGF-1 pathway for ageing. In: Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences. Band 366, Nr. 1561, 12. Januar 2011, ISSN 1471-2970, S. 9–16, doi:10.1098/rstb.2010.0276, PMID 21115525, PMC 3001308 (freier Volltext) – (nih.gov [abgerufen am 19. Dezember 2021]).
+Mark Lucanic, Theo Garrett, Ivan Yu, Fernando Calahorro, Azar Asadi Shahmirzadi: Chemical activation of a food deprivation signal extends lifespan. In: Aging Cell. Band 15, Nr. 5, Oktober 2016, ISSN 1474-9726, S. 832–841, doi:10.1111/acel.12492, PMID 27220516, PMC 5013014 (freier Volltext) – (nih.gov [abgerufen am 19. Dezember 2021]).
+Bettina Meier, Iuval Clejan, Yan Liu, Mia Lowden, Anton Gartner: trt-1 is the Caenorhabditis elegans catalytic subunit of telomerase. In: PLoS genetics. Band 2, Nr. 2, Februar 2006, ISSN 1553-7404, S. e18, doi:10.1371/journal.pgen.0020018, PMID 16477310, PMC 1361356 (freier Volltext) – (nih.gov [abgerufen am 19. Dezember 2021]).
+Mary-Lou Pardue, P. G. DeBaryshe: Retrotransposons that maintain chromosome ends. In: Proceedings of the National Academy of Sciences of the United States of America. Band 108, Nr. 51, 20. Dezember 2011, ISSN 1091-6490, S. 20317–20324, doi:10.1073/pnas.1100278108, PMID 21821789, PMC 3251079 (freier Volltext) – (nih.gov [abgerufen am 19. Dezember 2021]).
+Anthony J. Cesare, Roger R. Reddel: Alternative lengthening of telomeres: models, mechanisms and implications. In: Nature Reviews. Genetics. Band 11, Nr. 5, Mai 2010, ISSN 1471-0064, S. 319–330, doi:10.1038/nrg2763, PMID 20351727 (nih.gov [abgerufen am 19. Dezember 2021]).
+Melih Bayat, Robyn E. Tanny, Ye Wang, Carla Herden, Jens Daniel: Effects of telomerase overexpression in the model organism Caenorhabditis elegans. In: Gene. Band 732, 30. März 2020, ISSN 1879-0038, S. 144367, doi:10.1016/j.gene.2020.144367, PMID 31954861 (nih.gov [abgerufen am 19. Dezember 2021]).
+
+    Christoph Seidler: Jahrestag der „Columbia“-Katastrophe – Wie Fadenwürmer die Feuerhölle überlebten. In: Spiegel Online. 30. Januar 2013, abgerufen am 31. Januar 2021.
+
+Kategorien:
+
+    FadenwürmerNematodaModellorganismusOrganismus mit sequenziertem Genom
+
+Navigationsmenü
+
+    Nicht angemeldet
+    Diskussionsseite
+    Beiträge
+    Benutzerkonto erstellen
+    Anmelden
+
+    Artikel
+    Diskussion
+
+    Lesen
+    Bearbeiten
+    Quelltext bearbeiten
+    Versionsgeschichte
+
+Suche
+
+    Hauptseite
+    Themenportale
+    Zufälliger Artikel
+
+Mitmachen
+
+    Artikel verbessern
+    Neuen Artikel anlegen
+    Autorenportal
+    Hilfe
+    Letzte Änderungen
+    Kontakt
+    Spenden
+
+Werkzeuge
+
+    Links auf diese Seite
+    Änderungen an verlinkten Seiten
+    Spezialseiten
+    Permanenter Link
+    Seiten­informationen
+    Artikel zitieren
+    Wikidata-Datenobjekt
+
+Drucken/­exportieren
+
+    Als PDF herunterladen
+    Druckversion
+
+In anderen Projekten
+
+    Commons
+    Wikispecies
+
+In anderen Sprachen
+
+    Dansk
+    English
+    Español
+    Français
+    Italiano
+    Nederlands
+    Polski
+    ???????
+    Türkçe
+
+Links bearbeiten
+
+    Diese Seite wurde zuletzt am 19. Februar 2022 um 12:05 Uhr bearbeitet.
+    Abrufstatistik · Autoren
+
+    Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+    Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
+    Datenschutz
+    Über Wikipedia
+    Impressum
+    Mobile Ansicht
+    Entwickler
+    Statistiken
+    Stellungnahme zu Cookies
+
+    Wikimedia Foundation
+    Powered by MediaWiki
+

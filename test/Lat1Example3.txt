@@ -1,0 +1,238 @@
+
+Skip to content
+
+    Why GitHub?
+                          
+
+
+                    
+Team
+Enterprise
+Explore
+                      
+
+                    
+Marketplace
+Pricing
+                       
+
+
+                        
+
+Sign in
+Sign up
+remarkjs /
+remark
+
+4.2k
+
+    265
+
+Code
+Issues 2
+Pull requests
+Discussions
+Actions
+Security
+
+    Insights
+
+3 branches
+163 tags
+Latest commit
+@Pondorasti
+Pondorasti Add remark-img-links to list of plugins
+f183839
+on 5 May
+Git stats
+
+    1,884 commits
+
+Files
+Type
+Name
+Latest commit message
+Commit time
+.github/workflows
+Fix Actions
+7 months ago
+doc
+Add remark-img-links to list of plugins
+last month
+packages
+remark-stringify: 9.0.1
+6 months ago
+script
+Change to use micromark
+8 months ago
+test
+Update tests for changes in dependencies
+4 months ago
+.editorconfig
+Refactor code-style to use xo
+5 years ago
+.gitignore
+Refactor prose
+8 months ago
+.mailmap
+Refactor prose
+8 months ago
+.npmrc
+Add .npmrc
+3 years ago
+.prettierignore
+Refactor scripts
+12 months ago
+changelog.md
+Improve npm search ranking of individual packages
+3 years ago
+lerna.json
+Remove unused lerna field in lerna.json
+3 years ago
+license
+Change to use micromark
+8 months ago
+logo.svg
+Update logo.svg
+4 months ago
+package.json
+Update dev-dependencies
+4 months ago
+readme.md
+Update references to logo.svg
+4 months ago
+readme.md
+remark
+
+Build Coverage Downloads Size Sponsors Backers Chat
+
+remark is a Markdown processor built on micromark powered by plugins part of the unified collective.
+Intro
+
+remark is the world's most popular Markdown parser! And it does so much more than parse: it inspects (check, lint) and transforms (generate, compile) Markdown too!
+
+Everything is possible with plugins, such as checking Markdown code style (remark-lint), transforming safely to React (remark-react), adding a table of contents (remark-toc), or compiling to man pages (remark-man).
+
+Internally, remark now uses micromark, a new, fast, and tiny CommonMark compliant Markdown tokenizer. It can be GFM compliant with remark-gfm.
+
+Finally, remark is part of the unified collective. Learn more about us:
+
+    Visit unifiedjs.com and peruse its Learn section for an overview
+    Read unified's readme for a technical intro
+    Browse awesome remark to find out more about the ecosystem
+    Follow us on Twitter to see what we're up to
+    Check out Contribute below to find out how to help out
+
+Packages
+
+This repository contains the following packages:
+
+    remark-parse - Parse Markdown to syntax trees
+    remark-stringify - Serialize syntax trees to Markdown
+    remark - Programmatic interface with both remark-parse and remark-stringify
+    remark-cli - Command line interface wrapping remark
+
+Security
+
+As Markdown is sometimes used for HTML, and improper use of HTML can open you up to a cross-site scripting (XSS) attack, use of remark can also be unsafe. When going to HTML, use remark in combination with the rehype ecosystem, and use rehype-sanitize to make the tree safe.
+
+Use of remark plugins could also open you up to other attacks. Carefully assess each plugin and the risks involved in using them.
+Contribute
+
+See contributing.md in remarkjs/.github for ways to get started. See support.md for ways to get help. Ideas for new plugins and tools can be posted in remarkjs/ideas. Join us in Discussions to chat with the community and contributors.
+
+A curated list of awesome resources can be found in awesome remark.
+
+This project has a code of conduct. By interacting with this repository, organization, or community you agree to abide by its terms.
+Sponsor
+
+Support this effort and give back by sponsoring on OpenCollective!
+Gatsby ??
+
+	Vercel ??
+
+	Netlify
+
+	Holloway
+
+	ThemeIsle
+
+	Boost Hub
+
+	Expo
+
+
+You?
+
+License
+
+MIT © Titus Wormer
+About
+
+Markdown processor powered by plugins part of the @unifiedjs collective
+remark.js.org
+Topics
+javascript markdown remark ast commonmark unified
+Resources
+Readme
+License
+MIT License
+Releases 163
+remark-stringify@9.0.1 Latest
+on 9 Dec 2020
++ 162 releases
+Sponsor this project
+
+    @unifiedjs
+    unifiedjs unified 
+
+    open_collective opencollective.com/unified
+
+Learn more about GitHub Sponsors
+Used by 296k
+
+    @duyguulu
+    @whoknows-ck
+    @sammiepls
+    @josephmarkus
+    @baxtergu
+    @forestsheep911
+    @nunchistudio
+    @LiveHeroes
+
++ 295,843
+Contributors 104
+
+    @wooorm
+    @chjj
+    @ChrisWren
+    @eush77
+    @Mithgol
+    @ben-eb
+    @arobase-che
+    @ChristianMurphy
+    @Rokt33r
+    @Hamms
+    @lepture
+
++ 93 contributors
+Languages
+
+JavaScript 94.6%
+
+    TypeScript 5.4% 
+
+    © 2021 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
